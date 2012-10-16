@@ -1,6 +1,3 @@
-let g:winManagerWindowLayout='FileExplorer|TagList'
-nmap wm :WMToggle<cr>
-let Tlist_Use_Right_Window = 1
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
@@ -15,4 +12,9 @@ set laststatus=2
 set showmatch
 colorscheme molokai
 set t_Co=256
-
+set cursorline
+set cursorcolumn
+hi CursorLine   cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
+hi CursorColumn cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
+let Tlist_Use_Right_Window=1
+highlight Comment ctermfg=blue guifg=blue 
