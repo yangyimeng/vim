@@ -1,4 +1,4 @@
-cp consolas-powerline-vim/* ~/.fonts/
+cp ./*.ttf ~/.fonts/
 cd ~/.fonts
 mkfontscale
 mkfontdir
