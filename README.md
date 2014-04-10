@@ -4,10 +4,10 @@ In order to use powerline, we need to install pathogen firstly.
 Then base on pathogen, we continue to install powerline(just mv powerline to bundle directory)
 
 #Files
-├── CONSOLAB-Powerline.ttf
-├── CONSOLAI-Powerline.ttf
-├── CONSOLA-Powerline.ttf
-├── CONSOLAZ-Powerline.ttf
+├── CONSOLAB-Powerline.ttf<br />
+├── CONSOLAI-Powerline.ttf<br />
+├── CONSOLA-Powerline.ttf<br />
+├── CONSOLAZ-Powerline.ttf<br />
     above ttf file is font ttf, can be used by linux or windows system. If used by windows, just move to C\windows\fonts\.  
 ├── consolas-powerline-vim
 │   └── README.md
