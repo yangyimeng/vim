@@ -1,0 +1,27 @@
+Please understand that:
+In order to use powerline, we need to install pathogen firstly. 
+Then base on pathogen, we continue to install powerline(just mv powerline to bundle directory)
+
+├── CONSOLAB-Powerline.ttf
+├── CONSOLAI-Powerline.ttf
+├── CONSOLA-Powerline.ttf
+├── CONSOLAZ-Powerline.ttf
+    above ttf file is font ttf, can be used by linux or windows system. If used by windows, just move to C\windows\fonts\.    
+├── fonts.dir
+├── fonts.scale
+├── install.sh
+    this is to install pathogen plugin
+├── powerline.sh
+    this is to install powerline plugin
+├── README
+    instruction about this project
+└── repare.sh
+    this is used to Repair the Garbled font
+
+    So the install step is shown below:
+    ./install.sh
+    ./powerline.sh
+    ./repare.sh
+    cat ./.vimrc > ~/.vimrc
+
+
