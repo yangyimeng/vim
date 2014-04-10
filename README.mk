@@ -1,7 +1,9 @@
+#Summary
 Please understand that:
 In order to use powerline, we need to install pathogen firstly. 
 Then base on pathogen, we continue to install powerline(just mv powerline to bundle directory)
 
+#Files
 ├── CONSOLAB-Powerline.ttf
 ├── CONSOLAI-Powerline.ttf
 ├── CONSOLA-Powerline.ttf
@@ -22,7 +24,7 @@ Then base on pathogen, we continue to install powerline(just mv powerline to bun
     instruction about this project
 └── repare.sh
     this is used to Repair the Garbled font
-
+#Install Steps
     So the install step is shown below:
 
     ./install.sh
