@@ -9,28 +9,28 @@ Then base on pathogen, we continue to install powerline(just mv powerline to bun
 ├── CONSOLA-Powerline.ttf<br />
 ├── CONSOLAZ-Powerline.ttf<br />
     above ttf file is font ttf, can be used by linux or windows system. If used by windows, just move to C\windows\fonts\.  
-├── consolas-powerline-vim
-│   └── README.md
+├── consolas-powerline-vim<br />
+│   └── README.md<br />
 
-├── fonts.dir
-├── fonts.scale
-├── installNerdTree.sh
-    this is used to install NerdTree plugin
-├── install.sh
-    this is to install pathogen plugin
-├── powerline.sh
-    this is to install powerline plugin
-├── README
-    instruction about this project
-└── repare.sh
-    this is used to Repair the Garbled font
-#Install Steps
+├── fonts.dir<br />
+├── fonts.scale<br />
+├── installNerdTree.sh<br />
+    this is used to install NerdTree plugin <br />
+├── install.sh<br />
+    this is to install pathogen plugin<br />
+├── powerline.sh<br />
+    this is to install powerline plugin<br />
+├── README<br />
+    instruction about this project<br />
+└── repare.sh<br />
+    this is used to Repair the Garbled font<br />
+#Install Steps<br />
     So the install step is shown below:
 
-    ./install.sh
-    ./powerline.sh
-    ./repare.sh
-    ./installNerdTree.sh
-    cat ./.vimrc > ~/.vimrc
+    ./install.sh<br />
+    ./powerline.sh<br />
+    ./repare.sh<br />
+    ./installNerdTree.sh<br />
+    cat ./.vimrc > ~/.vimrc<br />
 
 
