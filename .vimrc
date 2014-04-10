@@ -19,3 +19,5 @@ set laststatus=2
 set nocompatible 
 set t_Co=256 
 let g:Powerline_symbols = 'fancy'
+" this is used to map NERDTree key to F10
+nnoremap <F10> :exe 'NERDTreeToggle'<CR>
