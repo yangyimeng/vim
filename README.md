@@ -33,4 +33,6 @@ Then base on pathogen, we continue to install powerline(just mv powerline to bun
     ./installNerdTree.sh<br />
     cat ./.vimrc > ~/.vimrc<br />
 
+#Preview
+![github](screen.png "github")
 
